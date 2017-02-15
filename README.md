@@ -1,3 +1,4 @@
-# redux demo
+# react ref demo
 
-This is a redux demo.
+This is a react ref demo.
+
